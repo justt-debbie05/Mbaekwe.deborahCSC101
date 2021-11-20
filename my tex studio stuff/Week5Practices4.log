@@ -1,0 +1,845 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.10)  20 NOV 2021 22:48
+entering extended mode
+**./Week5Practices4.tex
+(Week5Practices4.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/base\article.c
+ls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.cl
+o
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\bookt
+abs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
+\@cmidla=\count190
+\@cmidlb=\count191
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
+\@thisruleclass=\count192
+\@lastruleclass=\count193
+\@thisrulewidth=\dimen151
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunit
+x.sty
+Package: siunitx 2021-11-03 v3.0.35 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen152
+\l__siunitx_angle_marker_box=\box50
+\l__siunitx_angle_unit_box=\box51
+\l__siunitx_compound_count_int=\count194
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/translations\t
+ranslations.sty
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etool
+box.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\p
+dftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\in
+fwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.
+sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxc
+mds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_number_exponent_fixed_int=\count196
+\l__siunitx_number_min_decimal_int=\count197
+\l__siunitx_number_min_integer_int=\count198
+\l__siunitx_number_round_precision_int=\count199
+\l__siunitx_number_group_minimum_int=\count266
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstex
+t.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen
+.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen153
+))
+\l__siunitx_table_tmp_box=\box52
+\l__siunitx_table_tmp_dim=\dimen154
+\l__siunitx_table_column_width_dim=\dimen155
+\l__siunitx_table_integer_box=\box53
+\l__siunitx_table_decimal_box=\box54
+\l__siunitx_table_before_box=\box55
+\l__siunitx_table_after_box=\box56
+\l__siunitx_table_before_dim=\dimen156
+\l__siunitx_table_carry_dim=\dimen157
+\l__siunitx_unit_tmp_int=\count267
+\l__siunitx_unit_position_int=\count268
+\l__siunitx_unit_total_int=\count269
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3k
+eys2e\l3keys2e.sty
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3
+.sty
+Package: expl3 2021-08-27 L3 programming layer (loader) 
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3ba
+ckend-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count270
+\l__pdf_internal_box=\box57
+))
+Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.st
+y
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen158
+\ar@mcellbox=\box58
+\extrarowheight=\dimen159
+\NC@list=\toks17
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box59
+))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfpl
+otstable.sty
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgf
+plots.revision.tex)
+Package: pgfplotstable 2021/05/15 v1.18.1 Table typesetting and Pretty-printing
+ (1.18.1)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfpl
+ots.sty
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgf
+plots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graph
+icx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyva
+l.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graph
+ics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.
+sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\g
+raphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\p
+dftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendla
+yer\tikz.sty
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer
+\pgf.sty
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\
+pgfrcs.sty
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen162
+\pgfutil@tempdimb=\dimen163
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfutil-common-lists.tex))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfutil-latex.def
+\pgfutil@abb=\box60
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfrcs.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revi
+sion.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer
+\pgfcore.sty
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlaye
+r\pgfsys.sty
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen164
+\pgf@y=\dimen165
+\pgf@xa=\dimen166
+\pgf@ya=\dimen167
+\pgf@xb=\dimen168
+\pgf@yb=\dimen169
+\pgf@xc=\dimen170
+\pgf@yc=\dimen171
+\pgf@xd=\dimen172
+\pgf@yd=\dimen173
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count271
+\c@pgf@countb=\count272
+\c@pgf@countc=\count273
+\c@pgf@countd=\count274
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count275
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count276
+\pgfsyssoftpath@bigbuffer@items=\count277
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.
+sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\c
+olor.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+math.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathcalc.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathutil.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathparser.code.tex
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count278
+\pgfmath@box=\box61
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.basic.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.trigonometric.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.random.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.comparison.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.base.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.round.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.misc.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.integerarithmetics.code.tex)))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count279
+))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+int.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen175
+\pgf@picmaxx=\dimen176
+\pgf@picminy=\dimen177
+\pgf@picmaxy=\dimen178
+\pgf@pathminx=\dimen179
+\pgf@pathmaxx=\dimen180
+\pgf@pathminy=\dimen181
+\pgf@pathmaxy=\dimen182
+\pgf@xx=\dimen183
+\pgf@xy=\dimen184
+\pgf@yx=\dimen185
+\pgf@yy=\dimen186
+\pgf@zx=\dimen187
+\pgf@zy=\dimen188
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen189
+\pgf@path@lasty=\dimen190
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen191
+\pgf@shorten@start@additional=\dimen192
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box62
+\pgf@hbox=\box63
+\pgf@layerbox@main=\box64
+\pgf@picture@serial@count=\count280
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen193
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen194
+\pgf@pt@y=\dimen195
+\pgf@pt@temp=\dimen196
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen197
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen198
+\pgf@sys@shading@range@num=\count281
+\pgf@shadingcount=\count282
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box65
+))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\
+pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box66
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\
+pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibil
+ity\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen199
+\pgf@nodesepend=\dimen256
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibil
+ity\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\
+pgffor.sty
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\
+pgfkeys.sty
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfkeys.code.tex))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfma
+th.sty
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+math.code.tex))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+math.code.tex)
+\pgffor@iter=\dimen257
+\pgffor@skip=\dimen258
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontend
+layer/tikz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librarie
+s\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count283
+\pgfplotmarksize=\dimen259
+)
+\tikz@lastx=\dimen260
+\tikz@lasty=\dimen261
+\tikz@lastxsaved=\dimen262
+\tikz@lastysaved=\dimen263
+\tikz@lastmovetox=\dimen264
+\tikz@lastmovetoy=\dimen265
+\tikzleveldistance=\dimen266
+\tikzsiblingdistance=\dimen267
+\tikz@figbox=\box67
+\tikz@figbox@bg=\box68
+\tikz@tempbox=\box69
+\tikz@tempbox@bg=\box70
+\tikztreelevel=\count284
+\tikznumberofchildren=\count285
+\tikznumberofcurrentchild=\count286
+\tikz@fig@count=\count287
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\
+pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count288
+\pgfmatrixcurrentcolumn=\count289
+\pgf@matrix@numberofcolumns=\count290
+)
+\tikz@expandcount=\count291
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgf
+plots.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgf
+plotscore.code.tex
+\t@pgfplots@toka=\toks31
+\t@pgfplots@tokb=\toks32
+\t@pgfplots@tokc=\toks33
+\pgfplots@tmpa=\dimen268
+\c@pgfplots@coordindex=\count292
+\c@pgfplots@scanlineindex=\count293
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys
+\pgfplotssysgeneric.code.tex))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/lib
+s\pgfplotslibrary.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/old
+pgfcompatib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librarie
+s\pgflibraryfpu.code.tex))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/uti
+l\pgfplotsutil.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/lis
+tstructure\pgfplotsliststructure.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/lis
+tstructure\pgfplotsliststructureext.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/lis
+tstructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count294
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/lis
+tstructure\pgfplotsmatrix.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/num
+table\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count295
+\t@pgfplotstable@a=\toks34
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/lis
+tstructure\pgfplotsdeque.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/uti
+l\pgfplotsbinary.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/uti
+l\pgfplotsbinary.data.code.tex))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/uti
+l\pgfplotsutil.verb.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/lib
+s\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count296
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys
+\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def)))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/uti
+l\pgfplotscolormap.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/uti
+l\pgfplotscolor.code.tex))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgf
+plotsstackedplots.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgf
+plotsplothandlers.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgf
+plotsmeshplothandler.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgf
+plotsmeshplotimage.code.tex)))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgf
+plots.scaling.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgf
+plotscoordprocessing.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgf
+plots.errorbars.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgf
+plots.markers.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgf
+plotsticks.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgf
+plots.paths.code.tex)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\
+pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen269
+\pgfdecoratedremainingdistance=\dimen270
+\pgfdecoratedinputsegmentcompleteddistance=\dimen271
+\pgfdecoratedinputsegmentremainingdistance=\dimen272
+\pgf@decorate@distancetomove=\dimen273
+\pgf@decorate@repeatstate=\count297
+\pgfdecorationsegmentamplitude=\dimen274
+\pgfdecorationsegmentlength=\dimen275
+)
+\tikz@lib@dec@box=\box71
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librarie
+s/decorations\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librarie
+s/decorations\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/lib
+s\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count298
+\pgfplots@xmin@reg=\dimen276
+\pgfplots@xmax@reg=\dimen277
+\pgfplots@ymin@reg=\dimen278
+\pgfplots@ymax@reg=\dimen279
+\pgfplots@zmin@reg=\dimen280
+\pgfplots@zmax@reg=\dimen281
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librarie
+s\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/num
+table\pgfplotstable.code.tex
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/num
+table\pgfplotstable.coltype.code.tex)))
+! Missing number, treated as zero.
+<to be read again> 
+                   \__int_eval_end: 
+l.7 	round-precision=}
+                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 8.
+No file Week5Practices4.aux.
+\openout1 = `Week5Practices4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/translations/d
+icts\translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 8.
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\su
+pp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count299
+\scratchdimen=\dimen282
+\scratchbox=\box72
+\nofMPsegments=\count300
+\nofMParguments=\count301
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count302
+\MPscratchDim=\dimen283
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
+\everyMPtoPDFconversion=\toks36
+)
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\e
+pstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Ugochi Mbaekwe\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epsto
+pdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
+your preamble.
+ on input line 8.
+
+
+! LaTeX Error: \begin{center} on input line 10 ended by \end{.}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \end
+         {document}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+<write> ...pen table '\pgfplotstableread@filename 
+                                                  ', but there is also a '\p...
+l.14 \end
+         {document}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<write> ...is also a '\pgfplotstableread@filename 
+                                                  .tex'. TeX will automatica...
+l.14 \end
+         {document}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<write> ... now open '\pgfplotstableread@filename 
+                                                  .tex'. Please make sure yo...
+l.14 \end
+         {document}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package pgfplots Warning: You requested to open table '', but there is also a '
+.tex'. TeX will automatically append the suffix '.tex', so I will now open '.te
+x'. Please make sure you don't accidentally load TeX files - this may produce u
+nrecoverable errors. on input line 14.
+
+! Undefined control sequence.
+<argument> ...@reada =\pgfplotstableread@filename 
+                                                  \relax \fi \ifeof \r@pgfpl...
+l.14 \end
+         {document}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\pgfplotstable@search@and@open@file ...earch@done 
+                                                  \let \pgfplotstableread@fi...
+l.14 \end
+         {document}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<write> ...: reading {\pgfplotstableread@filename 
+                                                  }
+l.14 \end
+         {document}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+PGFPlots: reading {}
+! Undefined control sequence.
+\pgfplotstableread@impl@ ...otstableread@filename 
+                                                  }{#3}\if 1\pgfplotstablere...
+l.14 \end
+         {document}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\pgfplotstableread@impl@ ...fplotstableread@ready 
+                                                  \pgfplotstableread@start@l...
+l.14 \end
+         {document}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\pgfplotstableread@impl@ ...otstableread@filename 
+                                                  }\endgroup@@pgfplotstabler...
+l.14 \end
+         {document}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\pgfplotstableread@impl@ ...up@@pgfplotstableread 
+                                                  \ifpgfplots@tableread@to@l...
+l.14 \end
+         {document}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+! Emergency stop.
+<*> ./Week5Practices4.tex
+                         
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 26183 strings out of 478927
+ 720214 string characters out of 2848232
+ 1083291 words of memory out of 3000000
+ 43684 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 114i,3n,117p,724b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
